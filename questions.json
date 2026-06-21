@@ -1,0 +1,62 @@
+[
+  {
+    "category": "Science",
+    "question": "What planet is closest to the Sun?",
+    "choices": ["Venus", "Mercury", "Earth", "Mars"],
+    "answer": "B"
+  },
+  {
+    "category": "Science",
+    "question": "What gas do plants absorb from the air?",
+    "choices": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "answer": "C"
+  },
+  {
+    "category": "Science",
+    "question": "How many bones are in the human body?",
+    "choices": ["196", "206", "216", "226"],
+    "answer": "B"
+  },
+  {
+    "category": "History",
+    "question": "In what year did World War II end?",
+    "choices": ["1943", "1944", "1945", "1946"],
+    "answer": "C"
+  },
+  {
+    "category": "History",
+    "question": "Who was the first US president?",
+    "choices": ["John Adams", "Thomas Jefferson", "Benjamin Franklin", "George Washington"],
+    "answer": "D"
+  },
+  {
+    "category": "History",
+    "question": "Which country built the Great Wall?",
+    "choices": ["Japan", "Mongolia", "China", "Korea"],
+    "answer": "C"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the largest ocean on Earth?",
+    "choices": ["Atlantic", "Indian", "Arctic", "Pacific"],
+    "answer": "D"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital of Australia?",
+    "choices": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "answer": "C"
+  },
+  {
+    "category": "Geography",
+    "question": "Which is the longest river in the world?",
+    "choices": ["Amazon", "Yangtze", "Mississippi", "Nile"],
+    "answer": "D"
+  },
+  {
+    "category": "Geography",
+    "question": "How many continents are there?",
+    "choices": ["7", "6", "5", "8"],
+    "answer": "A"
+  }
+]
